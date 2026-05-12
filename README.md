@@ -60,13 +60,6 @@ Currently expanding into **Computer Engineering** — networks, software archite
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjaibi6-alt&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjaibi6-alt&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/ahmedjaibi6@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedjaibi6@gmail.com)
